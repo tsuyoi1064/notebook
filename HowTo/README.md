@@ -10,6 +10,7 @@
 | [Numpy](./Numpy.ipynb)           | 多次元配列の計算を高速に処理するライブラリ     |
 | [Matplotlib](./Matplotlib.ipynb) | グラフを描画するライブラリ                   |
 | [itertools](./itertools.ipynb)   | 順列・組合せを生成するライブラリ              |
+| [Tex](./TexNotation.ipynb)       | Markownで数式を書く                          |
 
 
 ---
