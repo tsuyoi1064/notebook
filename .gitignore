@@ -1,2 +1,9 @@
-.ipynb_checkpoints
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+
+# IPython
+profile_default/
+ipython_config.py
