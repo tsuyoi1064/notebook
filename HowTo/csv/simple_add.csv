@@ -1,7 +1,7 @@
-,Name,Age,Comment,key1,key2
-0,foo,19,A,A1,A2
-1,foo,19,A,B1,B2
-2,bar,20,,A1,A2
-3,bar,20,,B1,B2
-4,hoge,21,C,A1,A2
-5,hoge,21,C,B1,B2
+Name,Age,Comment,key1,key2
+foo,19,A,A1,A2
+foo,19,A,B1,B2
+bar,20,,A1,A2
+bar,20,,B1,B2
+hoge,21,C,A1,A2
+hoge,21,C,B1,B2
